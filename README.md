@@ -1,6 +1,6 @@
 # Hi 👋, I'm Umar Mujawar
 
-🚀 Aspiring Software Developer | Java | Flutter | IT Support & Cloud Basics  
+🚀 Aspiring Devops Engineer | IT Support & Cloud Basics  
 🎓 Final Year BCA Student  
 💡 Passionate about learning, building projects, and solving real-world problems
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Java (Core + OOPs)** and **Flutter**
+- 🌱 Currently learning **Devops Tools** and **Aws**
 - 🔭 Working on **personal projects** to improve practical skills
 - 🧠 Interested in **Software Development, IT Support, Cloud & Networking**
 - 🎯 Goal: Crack a good IT role in a reputed company
@@ -19,12 +19,13 @@
 ## 🛠️ Skills & Tools
 
 ### 💻 Programming & Development
-- Java (Core Java, OOPs)
-- Flutter (Beginner)
-- Dart
-- HTML, CSS (Basics)
+- Python
 
 ### 🧰 Tools & Platforms
+- Docker
+- Kubernetes
+- Grafana
+- Terraform
 - Git & GitHub
 - VS Code
 - Android Studio
@@ -38,8 +39,7 @@
 🚧 *Projects coming soon…*  
 
 Currently working on:
-- Java Console Applications  
-- Flutter Mobile Apps  
+- CloudPulse project
 - IT Support & Cloud Practice Projects  
 
 ---
