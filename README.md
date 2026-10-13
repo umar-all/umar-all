@@ -1,4 +1,4 @@
-# Hi 👋, I'm Umar Mujawar
+# Hi 👋, This is Umar Mujawar!
 
 🚀 Aspiring Devops Engineer | IT Support & Cloud Basics  
 🎓 Final Year BCA Student  
@@ -55,7 +55,7 @@ Currently working on:
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- 📧 Email: your-email@example.com
+- 📧 Email: mujawaru329@gmail.com
 
 ---
 
